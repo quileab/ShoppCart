@@ -1,0 +1,21 @@
+{
+    "name": "quileab/shoppcart",
+    "description": "Shopping Cart functionality for my Laravel proyect",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Quileab\\Shoppcart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "quileab",
+            "email": "quileab@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/support": "^11.22"
+    }
+}
